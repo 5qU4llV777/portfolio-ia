@@ -5,3 +5,6 @@
 [prompt Dio](https://github.com/5qU4llV777/meus-desafios-criativos-DIO)
 
 [Processamento-de-Imagens-com-Python](https://github.com/5qU4llV777/Processamento-de-Imagens-com-Python)
+
+[IA-generativas](https://github.com/5qU4llV777/IA-generativas)
+
